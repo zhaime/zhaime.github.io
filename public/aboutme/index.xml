@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AboutMes on Hugo Whisper Theme</title>
+    <link>/aboutme/</link>
+    <description>Recent content in AboutMes on Hugo Whisper Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    
+	<atom:link href="/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/aboutme/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aboutme/aboutme/</guid>
+      <description>Overview About Me Hi I&#39;m Zoe</description>
+    </item>
+    
+  </channel>
+</rss>
